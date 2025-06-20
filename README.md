@@ -42,20 +42,24 @@
 ### 2. Добавьте софт-скиллы
 Платформы:
 - LinkedIn Learning (курсы по коммуникации). https://www.linkedin.com/learning/
+
 Практика:
 - Напишите 1-2 поста в LinkedIn о своих проектах.
 - Создать резюме и профиль на HH.ru/LinkedIn.
 
 ### 3. Если хотите минимизировать Excel:
 *Базовый уровень:*
+
 — Освойте только сводные таблицы и VLOOKUP (это ~5-10 часов практики). Этого хватит для 80% задач.
 — Платформа: Excel-Practice (раздел «Pivot Tables») https://excel-practice-online.com/
 
-*аменяйте Excel на Python:*
+*Меняйте Excel на Python:*
+
 — Для EDA используйте Pandas:
 — Для визуализации — Plotly/Seaborn.
 
 *Акцент в резюме:*
+
 В разделе Skills укажите:
 - Python (Pandas, NumPy, Jupyter)  
 - SQL (Window functions, CTE)  
